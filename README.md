@@ -5,3 +5,9 @@ This project takes user input from javascript prompts and uses this info to make
 
 The most challenging part of this project was the randomizing part. I was able to get the arrays of the characters to join an empty array pretty easily but randomizing that new array was tough.
 
+### **Links**
+you can access this file at https://fisher-davis.github.io/Password-Generator/
+
+
+
+
